@@ -1,0 +1,18 @@
+*{
+font-family: linux;
+}
+
+p.name {
+display:flex;
+justify-content: center
+}
+
+h1.inter {
+display:flex;
+justify-content: center
+}
+
+div.inter {
+display:flex;
+justify-content: center
+}
